@@ -2,7 +2,7 @@
   "versionCode": 1,
   "versionName": "0.1.0",
   "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.1.0.apk",
-  "sha256": "85e3caa5c70c6b07424c53a9a94f05d7e36e8c9d1f6a1b995138f91a37481825",
-  "notes": "Locket（影匣）首个可安装版本：相册化五页、加密备份与恢复、音频与任意文件（SAF）、地点相册、液态玻璃界面、后台自动上传。",
-  "publishedAtMs": 1794002666177
+  "sha256": "906d5e2a52c91549bb18afd14c6b4400443faf6d3d9e4a327aa3ac5a54405a8d",
+  "notes": "Locket（影匣）0.1.0：相册化五页、加密备份与恢复、音频与任意文件（SAF）、地点相册、液态玻璃界面、后台自动上传。",
+  "publishedAtMs": 1794002941343
 }
