@@ -2,7 +2,7 @@
   "versionCode": 1,
   "versionName": "0.1.0",
   "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.1.0.apk",
-  "sha256": "d28ee7d2c726ce748e26788fb57796528df0e7c993e99c2c95859e482376c44c",
-  "notes": "Locket 0.1.0：应用锁密码 + 密钥（LK1-）凭据、判重上传、导出密钥、间距令牌、17 家存储预设、写死更新通道、加密备份与恢复、音频与任意文件、后台自动上传。",
-  "publishedAtMs": 1794006855000
+  "sha256": "9e21274a319e2a06e13f0fb82a8d5be9db4deb5abbd159755a0679952b0f9d6b",
+  "notes": "Locket 0.1.0：两级导航重构、媒体分类修正（m4a/dng）、应用锁与密钥、判重上传、17 家存储、后台自动上传。",
+  "publishedAtMs": 1794008506021
 }
