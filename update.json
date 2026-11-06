@@ -1,8 +1,8 @@
 {
   "versionCode": 1,
   "versionName": "0.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/yingxia-releases/main/yingxia-0.1.0.apk",
-  "sha256": "63bceef12119dd9a493cb007159323625b60ea4015b2f51648e14e3815f500fc",
-  "notes": "首个可安装版本：相册化五页、加密备份与恢复、音频与任意文件（SAF）、地点相册、液态玻璃界面、后台自动上传。",
-  "publishedAtMs": 1794002047172
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.1.0.apk",
+  "sha256": "85e3caa5c70c6b07424c53a9a94f05d7e36e8c9d1f6a1b995138f91a37481825",
+  "notes": "Locket（影匣）首个可安装版本：相册化五页、加密备份与恢复、音频与任意文件（SAF）、地点相册、液态玻璃界面、后台自动上传。",
+  "publishedAtMs": 1794002666177
 }
