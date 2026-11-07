@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.2.apk",
-  "sha256": "bdb3952fddc4687c986d993aa148d0d2fa50e0d5045c9b4cfbaedae20b3ab600",
-  "notes": "Locket 0.2.2：预览缓存隔离更顺滑、搜索与筛选不再冲突、封面条跟随类型。",
-  "publishedAtMs": 1794077167901
+  "versionCode": 5,
+  "versionName": "0.2.3",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.3.apk",
+  "sha256": "a91800151f8d77ba478e508b5ace82c470664b4f8c020e8c834dd65ce5e558fc",
+  "notes": "Locket 0.2.3：预览可左右滑动、双击放大、删除后继续看下一张。",
+  "publishedAtMs": 1794077575356
 }
