@@ -2,7 +2,7 @@
   "versionCode": 2,
   "versionName": "0.2.0",
   "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.0.apk",
-  "sha256": "520a5836a4e674e0c0e29ff92d2645ec68e54176a955b952b4ee24ee2479d8c4",
-  "notes": "Locket 0.2.0：相册分照片/视频/全部、时间线月份快捷条、两级导航、媒体分类修正（m4a/dng RAW）、应用锁与密钥、判重上传、17 家存储预设、后台自动上传。",
-  "publishedAtMs": 1794022237191
+  "sha256": "d2270975a683bd9ae4d93c3b507c94c457ca0e91d772ac7a0c8bd70149f5413f",
+  "notes": "Locket 0.2.0：相册分全部/照片/视频/地点、时间线月份快捷条、两级导航、媒体修正（m4a/dng RAW）、应用锁与密钥、判重上传、17 家存储预设、后台自动上传。",
+  "publishedAtMs": 1794022467782
 }
