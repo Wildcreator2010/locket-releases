@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.3",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.3.apk",
-  "sha256": "a91800151f8d77ba478e508b5ace82c470664b4f8c020e8c834dd65ce5e558fc",
-  "notes": "Locket 0.2.3：预览可左右滑动、双击放大、删除后继续看下一张。",
-  "publishedAtMs": 1794077575356
+  "versionCode": 6,
+  "versionName": "0.2.4",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.4.apk",
+  "sha256": "1f9e69f6eef92fb1d060275acd2abbb504c9e9a6ebd39682b0c3b7a1a29eaad5",
+  "notes": "Locket 0.2.4：相册多选删除、预览缩略图条。",
+  "publishedAtMs": 1794077962352
 }
