@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.2.13",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.13.apk",
-  "sha256": "822531a986fc82f289f454f189d43ca95b38b63cf00f259c7f7598f469e2a8ac",
-  "notes": "Locket 0.2.13：流式恢复（大视频不再 OOM）、release 签名脚本、Range 兼容与进度口径修正。",
-  "publishedAtMs": 1794111133469
+  "versionCode": 16,
+  "versionName": "0.2.14",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.14.apk",
+  "sha256": "d737397e0984a862547eb1d21c3f12a4e19cf8669f7e902c6c110f19387ea5de",
+  "notes": "Locket 0.2.14：恢复后回写状态库（不重复哈希、清单不多别名）。",
+  "publishedAtMs": 1794111763225
 }
