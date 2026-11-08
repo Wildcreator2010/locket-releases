@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.2.7",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.7.apk",
-  "sha256": "5fec7893358ee4c1803cc6e5d05217a9fdb23a4e549f29e80f020e54236067a7",
-  "notes": "Locket 0.2.7：搜索支持体积区间与日期过滤、备份页加上次备份摘要。",
-  "publishedAtMs": 1794105246566
+  "versionCode": 10,
+  "versionName": "0.2.8",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.8.apk",
+  "sha256": "62cb3a7ccc2d1a1a7c70f82a17e2e1b97fa70567078e5a46a1f33d112cfd8c16",
+  "notes": "Locket 0.2.8：两轮审计后的 23 项修复（数据安全、并发、API 29、S3 细节）。",
+  "publishedAtMs": 1794106010599
 }
