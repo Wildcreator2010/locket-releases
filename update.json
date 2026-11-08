@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.2.32",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.32.apk",
-  "sha256": "d58178de68c1aa0662eac8bca8a314bf3cee758221001a31534d84c3c6437172",
-  "notes": "Locket 0.2.32：验证应用锁不影响后台备份；新增 DEBUG_SET_LOCK。",
-  "publishedAtMs": 1794123421610
+  "versionCode": 35,
+  "versionName": "0.2.33",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.33.apk",
+  "sha256": "005a41d2af6daa4da4e04e5f7ba78a2d47cf109d3d75bcce08a1feb23259483d",
+  "notes": "Locket 0.2.33：e2e 脚本修竞态（等清单指针、关自动增量）、--json 摘要、真机验收清单。",
+  "publishedAtMs": 1794124960058
 }
