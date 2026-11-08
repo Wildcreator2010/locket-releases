@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.2.19",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.19.apk",
-  "sha256": "6737685fedfa1c0376d40c93db529385d83fd834b8ce2e39b9a254ca4333ffa1",
-  "notes": "Locket 0.2.19：NoSuchUpload 兼容 400，避免响应丢失后永久失败。",
-  "publishedAtMs": 1794115289428
+  "versionCode": 22,
+  "versionName": "0.2.20",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.20.apk",
+  "sha256": "85c927f7a75549e9ac55aa161d440a41bdc072c889d2f7215393bf12a51fba0f",
+  "notes": "Locket 0.2.20：debug 包支持 http 端点，附本地全链路联调文档。",
+  "publishedAtMs": 1794115729856
 }
