@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.2.8",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.8.apk",
-  "sha256": "62cb3a7ccc2d1a1a7c70f82a17e2e1b97fa70567078e5a46a1f33d112cfd8c16",
-  "notes": "Locket 0.2.8：两轮审计后的 23 项修复（数据安全、并发、API 29、S3 细节）。",
-  "publishedAtMs": 1794106010599
+  "versionCode": 11,
+  "versionName": "0.2.9",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.9.apk",
+  "sha256": "5d59ce835d06e69a10f6bcf64ae037af83d583851221d4f1b54426bbc3433627",
+  "notes": "Locket 0.2.9：path-style 签名修复、后台重试判据、还原令牌。",
+  "publishedAtMs": 1794107321254
 }
