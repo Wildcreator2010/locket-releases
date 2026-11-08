@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "0.2.33",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.33.apk",
-  "sha256": "005a41d2af6daa4da4e04e5f7ba78a2d47cf109d3d75bcce08a1feb23259483d",
-  "notes": "Locket 0.2.33：e2e 脚本修竞态（等清单指针、关自动增量）、--json 摘要、真机验收清单。",
-  "publishedAtMs": 1794124960058
+  "versionCode": 36,
+  "versionName": "0.2.34",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.34.apk",
+  "sha256": "00587633a1774012ee0bde6be46f985a1c1420b6cbaa00749d6afb8d9e63bf72",
+  "notes": "Locket 0.2.34：暂停/取消立刻断开在途请求（不再假装已停止）。",
+  "publishedAtMs": 1794131213455
 }
