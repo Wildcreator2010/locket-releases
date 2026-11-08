@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "0.2.29",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.29.apk",
-  "sha256": "09ba3f3974694269e58b917b27ce47c8285e3c4d4f8a2912041103e43bffb39c",
-  "notes": "Locket 0.2.29：0 字节自检、partSize 上界、>2GiB 溢出、还原互斥、PBKDF2 移出主线程。",
-  "publishedAtMs": 1794122518393
+  "versionCode": 32,
+  "versionName": "0.2.30",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.30.apk",
+  "sha256": "acacc0f76b82ddc30b1ba327b9dadf7a01508f58aba5aa47d7a0f984ec2d3ff1",
+  "notes": "Locket 0.2.30：区分对象长度未知与长度不符，兼容不返回长度的端点。",
+  "publishedAtMs": 1794122639449
 }
