@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.2.9",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.9.apk",
-  "sha256": "5d59ce835d06e69a10f6bcf64ae037af83d583851221d4f1b54426bbc3433627",
-  "notes": "Locket 0.2.9：path-style 签名修复、后台重试判据、还原令牌。",
-  "publishedAtMs": 1794107321254
+  "versionCode": 12,
+  "versionName": "0.2.10",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.10.apk",
+  "sha256": "dadf6ce4254c2cf7441ab6a1bd8193b555238cde11fa18e1293fff07b286afba",
+  "notes": "Locket 0.2.10：修新建密钥后误显示「还没有密钥」。",
+  "publishedAtMs": 1794108785063
 }
