@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.2.14",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.14.apk",
-  "sha256": "d737397e0984a862547eb1d21c3f12a4e19cf8669f7e902c6c110f19387ea5de",
-  "notes": "Locket 0.2.14：恢复后回写状态库（不重复哈希、清单不多别名）。",
-  "publishedAtMs": 1794111763225
+  "versionCode": 17,
+  "versionName": "0.2.15",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.15.apk",
+  "sha256": "d3e5995fea9d225093ebf5aa37976e767a85e3fa836ab9f58887ce39d7fa97b9",
+  "notes": "Locket 0.2.15：应用锁 60 秒后自动重锁、后台不再常驻大列表。",
+  "publishedAtMs": 1794112451638
 }
