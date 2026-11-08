@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.2.25",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.25.apk",
-  "sha256": "ae2944a9865b2821f7bb3331acc5e24f0b6b9f7f1a4260c4c637a4e299e7021a",
-  "notes": "Locket 0.2.25：e2e 脚本 --deep（不重传/自检/索引重建），并记录两个环境差异。",
-  "publishedAtMs": 1794121200489
+  "versionCode": 28,
+  "versionName": "0.2.26",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.26.apk",
+  "sha256": "25d236aab4d855d0ee361b3b427020e8f31f64e50adbf3a4302affd6300ca41e",
+  "notes": "Locket 0.2.26：清单只收当前前缀的条目，换桶后不再出现指向空对象的条目。",
+  "publishedAtMs": 1794121363908
 }
