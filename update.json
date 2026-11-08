@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.2.18",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.18.apk",
-  "sha256": "6a4e8d0a0aed8de02073a00f33b63e328752da6c0414b0eaa8244e088a344ddd",
-  "notes": "Locket 0.2.18：HEAD 缺 Content-Length 时用 Range 回退，避免续传退化成整文件重传。",
-  "publishedAtMs": 1794115085700
+  "versionCode": 21,
+  "versionName": "0.2.19",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.19.apk",
+  "sha256": "6737685fedfa1c0376d40c93db529385d83fd834b8ce2e39b9a254ca4333ffa1",
+  "notes": "Locket 0.2.19：NoSuchUpload 兼容 400，避免响应丢失后永久失败。",
+  "publishedAtMs": 1794115289428
 }
