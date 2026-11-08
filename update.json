@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.2.23",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.23.apk",
-  "sha256": "d2bf9bb7387362de540e50b5dc96a5728c512b3a7b76ead5ca482eb70e770113",
-  "notes": "Locket 0.2.23：对象被删时的提示更清楚；索引丢失可从本机状态重建。",
-  "publishedAtMs": 1794117887402
+  "versionCode": 26,
+  "versionName": "0.2.24",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.24.apk",
+  "sha256": "38353d5233d0359c0b0ec59a391b4684a0a7071de2a9be4ff587f4f11414bed8",
+  "notes": "Locket 0.2.24：一条命令在真机/模拟器上验证备份→恢复全链路（tools/e2e_local.sh）。",
+  "publishedAtMs": 1794118162452
 }
