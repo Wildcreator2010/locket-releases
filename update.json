@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.2.24",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.24.apk",
-  "sha256": "38353d5233d0359c0b0ec59a391b4684a0a7071de2a9be4ff587f4f11414bed8",
-  "notes": "Locket 0.2.24：一条命令在真机/模拟器上验证备份→恢复全链路（tools/e2e_local.sh）。",
-  "publishedAtMs": 1794118162452
+  "versionCode": 27,
+  "versionName": "0.2.25",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.25.apk",
+  "sha256": "ae2944a9865b2821f7bb3331acc5e24f0b6b9f7f1a4260c4c637a4e299e7021a",
+  "notes": "Locket 0.2.25：e2e 脚本 --deep（不重传/自检/索引重建），并记录两个环境差异。",
+  "publishedAtMs": 1794121200489
 }
