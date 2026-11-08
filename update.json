@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.2.16",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.16.apk",
-  "sha256": "2db74a7591c026669d05bbe099e8b0f799cbc0d231cd1547f2d6048cf69af4ee",
-  "notes": "Locket 0.2.16：转屏权限框、扫描刷新丢失、时间线错图、服务自启全量备份、解锁卡顿 5 项修复。",
-  "publishedAtMs": 1794112741739
+  "versionCode": 19,
+  "versionName": "0.2.17",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.17.apk",
+  "sha256": "b6dc1c557932c70123001ef02076eb3cc40a0e4858fb023568070d21d846329a",
+  "notes": "Locket 0.2.17：新增真实 HTTP 端到端测试，修复 http 端点被强制成 https 的 bug。",
+  "publishedAtMs": 1794114727394
 }
