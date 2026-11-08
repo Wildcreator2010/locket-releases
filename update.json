@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.2.21",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.21.apk",
-  "sha256": "707e120bc38fa3f8747640d739b391131dbe47bba9392bc3811f15ace1c458aa",
-  "notes": "Locket 0.2.21：debug 广播入口、失败原因落日志，App 端全链路（备份→删除→恢复→再备份）实测通过。",
-  "publishedAtMs": 1794116232095
+  "versionCode": 24,
+  "versionName": "0.2.22",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.22.apk",
+  "sha256": "29d2503474a489ca347a14589c1ce1cc562241223fc526f94390c50ae3cc10c6",
+  "notes": "Locket 0.2.22：完整自检改为流式（修 120MB 对象 OOM）；120MB 备份→删除→恢复实测通过。",
+  "publishedAtMs": 1794117382697
 }
