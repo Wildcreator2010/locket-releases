@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.2.10",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.10.apk",
-  "sha256": "dadf6ce4254c2cf7441ab6a1bd8193b555238cde11fa18e1293fff07b286afba",
-  "notes": "Locket 0.2.10：修新建密钥后误显示「还没有密钥」。",
-  "publishedAtMs": 1794108785063
+  "versionCode": 13,
+  "versionName": "0.2.11",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.11.apk",
+  "sha256": "b828474f129297285233d4c2f89d62530be80e6d359fdab7d199ab76e0302cb5",
+  "notes": "Locket 0.2.11：并发锁、API 29 批量删除、判重别名、导出失败、导航返回栈等 6 项修复。",
+  "publishedAtMs": 1794109379411
 }
