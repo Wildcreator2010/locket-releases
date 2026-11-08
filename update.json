@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.2.17",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.17.apk",
-  "sha256": "b6dc1c557932c70123001ef02076eb3cc40a0e4858fb023568070d21d846329a",
-  "notes": "Locket 0.2.17：新增真实 HTTP 端到端测试，修复 http 端点被强制成 https 的 bug。",
-  "publishedAtMs": 1794114727394
+  "versionCode": 20,
+  "versionName": "0.2.18",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.18.apk",
+  "sha256": "6a4e8d0a0aed8de02073a00f33b63e328752da6c0414b0eaa8244e088a344ddd",
+  "notes": "Locket 0.2.18：HEAD 缺 Content-Length 时用 Range 回退，避免续传退化成整文件重传。",
+  "publishedAtMs": 1794115085700
 }
