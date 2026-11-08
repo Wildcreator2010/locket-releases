@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "0.2.35",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.35.apk",
-  "sha256": "96eb421f84ffb6f097cd79d25b0988d902a51982878cd1eb5e0869c774bc7127",
-  "notes": "Locket 0.2.35：取消还原能打断写入（每 64KiB 检查取消标记）。",
-  "publishedAtMs": 1794131639508
+  "versionCode": 38,
+  "versionName": "0.2.36",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.36.apk",
+  "sha256": "38244ebd49a70608d2730e6875df9ad60683e4033a09f630cd5bc4aba2b91094",
+  "notes": "Locket 0.2.36：取消还原 449ms 生效、零残留、不再计为失败。",
+  "publishedAtMs": 1794131910765
 }
