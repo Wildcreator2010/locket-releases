@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.2.11",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.11.apk",
-  "sha256": "b828474f129297285233d4c2f89d62530be80e6d359fdab7d199ab76e0302cb5",
-  "notes": "Locket 0.2.11：并发锁、API 29 批量删除、判重别名、导出失败、导航返回栈等 6 项修复。",
-  "publishedAtMs": 1794109379411
+  "versionCode": 14,
+  "versionName": "0.2.12",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.12.apk",
+  "sha256": "9a17a087deb1820b46407d7c3c7903043126492a8231b7c2020b912c2d379441",
+  "notes": "Locket 0.2.12：UI 与备份/恢复链路的 22 项修复。",
+  "publishedAtMs": 1794109909681
 }
