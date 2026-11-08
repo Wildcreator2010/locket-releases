@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.2.22",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.22.apk",
-  "sha256": "29d2503474a489ca347a14589c1ce1cc562241223fc526f94390c50ae3cc10c6",
-  "notes": "Locket 0.2.22：完整自检改为流式（修 120MB 对象 OOM）；120MB 备份→删除→恢复实测通过。",
-  "publishedAtMs": 1794117382697
+  "versionCode": 25,
+  "versionName": "0.2.23",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.23.apk",
+  "sha256": "d2bf9bb7387362de540e50b5dc96a5728c512b3a7b76ead5ca482eb70e770113",
+  "notes": "Locket 0.2.23：对象被删时的提示更清楚；索引丢失可从本机状态重建。",
+  "publishedAtMs": 1794117887402
 }
