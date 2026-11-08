@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.2.15",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.15.apk",
-  "sha256": "d3e5995fea9d225093ebf5aa37976e767a85e3fa836ab9f58887ce39d7fa97b9",
-  "notes": "Locket 0.2.15：应用锁 60 秒后自动重锁、后台不再常驻大列表。",
-  "publishedAtMs": 1794112451638
+  "versionCode": 18,
+  "versionName": "0.2.16",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.16.apk",
+  "sha256": "2db74a7591c026669d05bbe099e8b0f799cbc0d231cd1547f2d6048cf69af4ee",
+  "notes": "Locket 0.2.16：转屏权限框、扫描刷新丢失、时间线错图、服务自启全量备份、解锁卡顿 5 项修复。",
+  "publishedAtMs": 1794112741739
 }
