@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.5",
-  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.5.apk",
-  "sha256": "c0a71e0a2a49f6f874e8546fe2bd52f3120682a14bd5d5ff39d0e9ea3363fed5",
-  "notes": "Locket 0.2.5：相册排序（最新/最旧/最大）、时间线可拖动月份索引。",
-  "publishedAtMs": 1794078255004
+  "versionCode": 8,
+  "versionName": "0.2.6",
+  "apkUrl": "https://raw.githubusercontent.com/Wildcreator2010/locket-releases/main/locket-0.2.6.apk",
+  "sha256": "b6993ad8bba9e04744180ef24e0f2d516fb8e9b0996595ca49cabcbf87192bb1",
+  "notes": "Locket 0.2.6：最近添加排序、视频可播放（系统播放器）。",
+  "publishedAtMs": 1794104825644
 }
